@@ -1,0 +1,12 @@
+{
+    "python.pythonPath": "~/Documents/Sense/udemy/drf-advance-course/venv/bin/python",
+    "files.exclude": {
+        "**/venv": true,
+        "**/*__pycache__": true,
+    },
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--ignore=E501,E271,E272,W602,W504",
+    ],
+}
